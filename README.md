@@ -84,6 +84,7 @@
 * [DesignCode](https://www.youtube.com/channel/UCTIhfOopxukTIRkbXJ3kN-g)
 * [Rebeloper - Rebel Developer](https://www.youtube.com/channel/UCK88iDIf2V6w68WvC-k7jcg)
 * [Kavsoft](https://www.youtube.com/channel/UCsuV4MRk_aB291SrchUVb4w)
+* [CodeWithChris](https://www.youtube.com/c/CodeWithChris)
 * [Разработка (Академия Яндекса)](https://www.youtube.com/channel/UCNuItlOR3qXZBtMRwb4GoBg)
 * [Академия Яндекса](https://www.youtube.com/channel/UCTUyoZMfksbNIHfWJjwr5aQ)
 * [Pavel Mavrin](https://www.youtube.com/c/pavelmavrin)
