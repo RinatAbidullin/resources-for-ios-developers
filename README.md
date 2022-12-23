@@ -48,7 +48,7 @@
 * [XcodeBenchmark](https://github.com/devMEremenko/XcodeBenchmark)
 * [Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide)
 * [Swiftly](https://swiftly.dev/): Сайт-шпаргалка для занятых программистов.
-* [qtext.i](https://qtext.io): Easy, Fast and Secure online text sharing.
+* [qtext.io](https://qtext.io): Easy, Fast and Secure online text sharing.
 
 ## Первоисточники:
 
