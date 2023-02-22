@@ -98,6 +98,14 @@
 * [swiftme.ru](https://swiftme.ru/product-category/books)
 * [objc.io](https://www.objc.io/books)
 * [leanpub](https://leanpub.com/bookstore?type=book&category=swift#BookstoreTop)
+* [Питер](https://www.piter.com/collection/kompyutery-i-internet)
+* [БХВ](https://bhv.ru/product-category/kompyutery-i-programmy/)
+* [Вильямс](http://www.williamspublishing.com/index.shtml)
+* [Эксмо](https://eksmo.ru/professionalnaia-literatura/kompyuternaya-literatura/?sort=date)
+* [No Starch Press](https://nostarch.com/catalog.htm)
+* [Manning](https://www.manning.com/catalog/sort/sort-by-date)
+* [Apress](https://www.apress.com/)
+* [O'Reilly](https://www.oreilly.com/products/books-videos.html)
 
 ## Интересные статьи по разработке под iOS можно найти на:
 
