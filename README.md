@@ -22,6 +22,7 @@
 * Xcodes ([app version](https://github.com/RobotsAndPencils/XcodesApp), [command-line](https://github.com/RobotsAndPencils/xcodes))
 * [Typora](https://typora.io/): Markdown Editor.
 * [DevToysMac](https://github.com/ObuchiYuki/DevToysMac): DevToys helps in daily tasks like formatting JSON, comparing text, testing RegExp.
+* [RocketSim](https://apps.apple.com/nl/app/rocketsim-launch-deeplinks/id1504940162?l=en&mt=12): RocketSim is a developer tool that gives your iOS Simulator extra functionalities to increase day-to-day development productivity.
 * [Klogg](https://github.com/variar/klogg): Multi-platform GUI application that helps browse and search through long and complex log files.
 * [XCSnippetsApp](https://github.com/MarcoEidinger/XCSnippetsApp): Приложение с подборкой сниппетов кода.
 * [DB Browser for SQLite](https://sqlitebrowser.org/): DB Browser for SQLite (DB4S) is a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.
