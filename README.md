@@ -50,6 +50,7 @@
 * [Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide)
 * [Swiftly](https://swiftly.dev/): Сайт-шпаргалка для занятых программистов.
 * [qtext.io](https://qtext.io): Easy, Fast and Secure online text sharing.
+* [ray.so](https://ray.so/): Create beautiful images of your code.
 
 ## Первоисточники:
 
