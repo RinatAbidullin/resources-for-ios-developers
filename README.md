@@ -17,7 +17,7 @@
 * [Apple Design Resources](https://developer.apple.com/design/resources/)
 * [Fonts for Apple Platforms](https://developer.apple.com/fonts/)
 * [System Status of Apple Services](https://www.apple.com/support/systemstatus/)
-* [Profiles and Logs](https://developer.apple.com/bug-reporting/profiles-and-logs/)
+* [Profiles and Logs](https://developer.apple.com/bug-reporting/profiles-and-logs/) (Для диагности сети на устройство нужно установить профили CFNetwork и Network Diagnostics)
 
 ## Tools
 * Xcodes ([app version](https://github.com/RobotsAndPencils/XcodesApp), [command-line](https://github.com/RobotsAndPencils/xcodes))
