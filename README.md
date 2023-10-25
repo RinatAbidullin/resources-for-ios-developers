@@ -54,6 +54,8 @@
 * [Swiftly](https://swiftly.dev/): Сайт-шпаргалка для занятых программистов.
 * [qtext.io](https://qtext.io): Easy, Fast and Secure online text sharing.
 * [ray.so](https://ray.so/): Create beautiful images of your code.
+* [Keep a Changelog](https://keepachangelog.com/)
+* [Semantic Versioning](https://semver.org/)
 
 ## Первоисточники:
 
